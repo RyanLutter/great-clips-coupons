@@ -1,0 +1,1578 @@
+{
+  "AR": {
+    "Siloam Springs": [
+      {
+        "url": "https://offers.greatclips.com/5xUJIz8",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Shoppes at Siloam",
+        "city": "Siloam Springs",
+        "state": "AR",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ]
+  },
+  "AZ": {
+    "Avondale": [
+      {
+        "url": "https://offers.greatclips.com/8MOwHh9",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Gateway Pavillions",
+        "city": "Avondale",
+        "state": "AZ",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-20",
+        "match": "not_match"
+      }
+    ],
+    "Buckeye": [
+      {
+        "url": "https://offers.greatclips.com/rqEXpHG",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Village Grove at Verrado",
+        "city": "Buckeye",
+        "state": "AZ",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-20",
+        "match": "not_match"
+      }
+    ],
+    "Chandler": [
+      {
+        "url": "https://offers.greatclips.com/LXEpPGK",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Chandler Village Center",
+        "city": "Chandler",
+        "state": "AZ",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-20",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/O1CvpjP",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips The Park",
+        "city": "Chandler",
+        "state": "AZ",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-20",
+        "match": "not_match"
+      }
+    ],
+    "Glendale": [
+      {
+        "url": "https://offers.greatclips.com/dZTiy7T",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Arrowhead Marketplace",
+        "city": "Glendale",
+        "state": "AZ",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-20",
+        "match": "not_match"
+      }
+    ]
+  },
+  "CA": {
+    "Pinole": [
+      {
+        "url": "https://offers.greatclips.com/vRGLzCp",
+        "coupon_url": "https://coupons-greatclips.com/14-99",
+        "location": "Great Clips Pinole Vista Crossing",
+        "city": "Pinole",
+        "state": "CA",
+        "price": 14.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-08",
+        "match": "not_match"
+      }
+    ],
+    "Pleasanton": [
+      {
+        "url": "https://offers.greatclips.com/IOS6rlo",
+        "coupon_url": "https://coupons-greatclips.com/14-99",
+        "location": "Great Clips Pleasanton Gateway",
+        "city": "Pleasanton",
+        "state": "CA",
+        "price": 14.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-06-07",
+        "match": "not_match"
+      }
+    ]
+  },
+  "FL": {
+    "Apopka": [
+      {
+        "url": "https://offers.greatclips.com/CncFKQ2",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Rock Springs Plaz",
+        "city": "Apopka",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Hudson": [
+      {
+        "url": "https://offers.greatclips.com/vtsUxgl",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Plaza of The Oaks",
+        "city": "Hudson",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Naples": [
+      {
+        "url": "https://offers.greatclips.com/WZ3p3Iw",
+        "coupon_url": "https://coupons-greatclips.com/14-99",
+        "location": "Great Clips Shoppes at Hammock Cove",
+        "city": "Naples",
+        "state": "FL",
+        "price": 14.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-28",
+        "match": "not_match"
+      }
+    ],
+    "New Port Richey": [
+      {
+        "url": "https://offers.greatclips.com/IMAMfmM",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Ridge Plaz",
+        "city": "New Port Richey",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Orlando": [
+      {
+        "url": "https://offers.greatclips.com/KHCA1Tx",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Great Clips Lake Har",
+        "city": "Orlando",
+        "state": "FL",
+        "price": 12.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-30",
+        "match": "not_match"
+      }
+    ],
+    "Oviedo": [
+      {
+        "url": "https://offers.greatclips.com/RYBXvzB",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Oviedo On The Park",
+        "city": "Oviedo",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-31",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/u3Kmbp3",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Riverside Landing",
+        "city": "Oviedo",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Spring Hill": [
+      {
+        "url": "https://offers.greatclips.com/hEFo05c",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Spring Hill",
+        "city": "Spring Hill",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/3VrifhX",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Lakewood Plaz",
+        "city": "Spring Hill",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Wesley Chapel": [
+      {
+        "url": "https://offers.greatclips.com/hlE7llC",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips The Shoppes at Northwoods",
+        "city": "Wesley Chapel",
+        "state": "FL",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ],
+    "Wimauma": [
+      {
+        "url": "https://offers.greatclips.com/XsRkKZb",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Belmont Developmen",
+        "city": "Wimauma",
+        "state": "FL",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Winter Springs": [
+      {
+        "url": "https://offers.greatclips.com/ycN7jHl",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Winter Springs Town Center",
+        "city": "Winter Springs",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-31",
+        "match": "not_match"
+      }
+    ]
+  },
+  "IA": {
+    "Cedar Falls": [
+      {
+        "url": "https://offers.greatclips.com/fQRxk68",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Viking Plaz",
+        "city": "Cedar Falls",
+        "state": "IA",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Cedar Rapids": [
+      {
+        "url": "https://offers.greatclips.com/rjjn8iM",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips River Marke",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/qVmSpXL",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Collins Crossing",
+        "city": "Cedar Rapids",
+        "state": "IA",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Coralville": [
+      {
+        "url": "https://offers.greatclips.com/UBtp5EE",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Coral Commerce",
+        "city": "Coralville",
+        "state": "IA",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Iowa City": [
+      {
+        "url": "https://offers.greatclips.com/vD8mG8b",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Sycamore",
+        "city": "Iowa City",
+        "state": "IA",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Marion": [
+      {
+        "url": "https://offers.greatclips.com/AvGl3Vu",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Marion",
+        "city": "Marion",
+        "state": "IA",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Waterloo": [
+      {
+        "url": "https://offers.greatclips.com/yTW6wfG",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Progress Plaz",
+        "city": "Waterloo",
+        "state": "IA",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ]
+  },
+  "IL": {
+    "Carpentersville": [
+      {
+        "url": "https://offers.greatclips.com/uRoWHf0",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Ravens Crossing",
+        "city": "Carpentersville",
+        "state": "IL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ]
+  },
+  "MI": {
+    "Fraser": [
+      {
+        "url": "https://offers.greatclips.com/cT7n8Ry",
+        "coupon_url": "https://coupons-greatclips.com/11-99",
+        "location": "Great Clips Fraser Meijers",
+        "city": "Fraser",
+        "state": "MI",
+        "price": 11.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ],
+    "Plymouth": [
+      {
+        "url": "https://offers.greatclips.com/qDXa7h9",
+        "coupon_url": "https://coupons-greatclips.com/14-99",
+        "location": "Great Clips Sheldon Place",
+        "city": "Plymouth",
+        "state": "MI",
+        "price": 14.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/TTCXJEz",
+        "coupon_url": "https://coupons-greatclips.com/14-99",
+        "location": "Great Clips Plymouth Square",
+        "city": "Plymouth",
+        "state": "MI",
+        "price": 14.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Roseville": [
+      {
+        "url": "https://offers.greatclips.com/DqBvUYN",
+        "coupon_url": "https://coupons-greatclips.com/11-99",
+        "location": "Great Clips Roseville Village",
+        "city": "Roseville",
+        "state": "MI",
+        "price": 11.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ],
+    "Warren": [
+      {
+        "url": "https://offers.greatclips.com/dpSbWnj",
+        "coupon_url": "https://coupons-greatclips.com/11-99",
+        "location": "Great Clips Schoenherr Plaz",
+        "city": "Warren",
+        "state": "MI",
+        "price": 11.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ]
+  },
+  "MO": {
+    "Saint Joseph": [
+      {
+        "url": "https://offers.greatclips.com/ctepNh0",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Great Clips East Hills Mall Pad",
+        "city": "Saint Joseph",
+        "state": "MO",
+        "price": 12.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Springfield": [
+      {
+        "url": "https://offers.greatclips.com/q7N7gyS",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Springfield Plaz",
+        "city": "Springfield",
+        "state": "MO",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ]
+  },
+  "NC": {
+    "Raleigh": [
+      {
+        "url": "https://offers.greatclips.com/GvjdNPD",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Buffaloe Bend",
+        "city": "Raleigh",
+        "state": "NC",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-03",
+        "match": "not_match"
+      }
+    ]
+  },
+  "NE": {
+    "Elkhorn": [
+      {
+        "url": "https://offers.greatclips.com/ZnlFUNA",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Indian Creek",
+        "city": "Elkhorn",
+        "state": "NE",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ],
+    "Omaha": [
+      {
+        "url": "https://offers.greatclips.com/v0PQ1Gg",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Lakeside Plaz",
+        "city": "Omaha",
+        "state": "NE",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-03",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/tBsxipG",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Maple Heights",
+        "city": "Omaha",
+        "state": "NE",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-05-01",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/35ULBxG",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Pepperwood Village",
+        "city": "Omaha",
+        "state": "NE",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ]
+  },
+  "OK": {
+    "Ada": [
+      {
+        "url": "https://offers.greatclips.com/IyHlSxR",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Ad",
+        "city": "Ada",
+        "state": "OK",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Ardmore": [
+      {
+        "url": "https://offers.greatclips.com/7u0ZS41",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Market Street at Ardmore",
+        "city": "Ardmore",
+        "state": "OK",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Durant": [
+      {
+        "url": "https://offers.greatclips.com/kAu6rJD",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Cross Creek Duran",
+        "city": "Durant",
+        "state": "OK",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ]
+  },
+  "PA": {
+    "Murrysville": [
+      {
+        "url": "https://offers.greatclips.com/pDxeOrq",
+        "coupon_url": "https://coupons-greatclips.com/11-99",
+        "location": "Great Clips Maple Commons",
+        "city": "Murrysville",
+        "state": "PA",
+        "price": 11.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-20",
+        "match": "not_match"
+      }
+    ]
+  },
+  "SC": {
+    "Inman": [
+      {
+        "url": "https://offers.greatclips.com/I6k7BDZ",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Inman Food Lion",
+        "city": "Inman",
+        "state": "SC",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-15",
+        "match": "not_match"
+      }
+    ]
+  },
+  "TN": {
+    "Fairview": [
+      {
+        "url": "https://offers.greatclips.com/qmrrO8G",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Fairview",
+        "city": "Fairview",
+        "state": "TN",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      }
+    ],
+    "Harrison": [
+      {
+        "url": "https://offers.greatclips.com/RzTH7du",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Harrison Food City",
+        "city": "Harrison",
+        "state": "TN",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-03",
+        "match": "not_match"
+      }
+    ]
+  },
+  "TX": {
+    "Austin": [
+      {
+        "url": "https://offers.greatclips.com/sO7Zl41",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Westgate",
+        "city": "Austin",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Bryan": [
+      {
+        "url": "https://offers.greatclips.com/4n896Ai",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Brazos Marketplace",
+        "city": "Bryan",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/tjVfvhA",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Colony Park",
+        "city": "Bryan",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Coppell": [
+      {
+        "url": "https://offers.greatclips.com/bLwDWhZ",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Valley Ranch Centre",
+        "city": "Coppell",
+        "state": "TX",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/xf4AdEC",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Coppell",
+        "city": "Coppell",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-22",
+        "match": "not_match"
+      }
+    ],
+    "Dallas": [
+      {
+        "url": "https://offers.greatclips.com/c0OHPkD",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Frankford Pavilion",
+        "city": "Dallas",
+        "state": "TX",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/SJikt7J",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Market at Preston Fores",
+        "city": "Dallas",
+        "state": "TX",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/5aFnaxf",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Market at Preston Fores",
+        "city": "Dallas",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-16",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/5K9EOJS",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Park Forest Northeas",
+        "city": "Dallas",
+        "state": "TX",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/PH4yABu",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Park Forest Northeas",
+        "city": "Dallas",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-16",
+        "match": "not_match"
+      }
+    ],
+    "Farmers Branch": [
+      {
+        "url": "https://offers.greatclips.com/9ud9Gow",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Valley View Central",
+        "city": "Farmers Branch",
+        "state": "TX",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/ULgPmRo",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Valley View Central",
+        "city": "Farmers Branch",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-16",
+        "match": "not_match"
+      }
+    ],
+    "Fort Worth": [
+      {
+        "url": "https://offers.greatclips.com/x3iNB9G",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Eastchase Marke",
+        "city": "Fort Worth",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/ul83fWG",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Left Bank Marke",
+        "city": "Fort Worth",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Frisco": [
+      {
+        "url": "https://offers.greatclips.com/tbWJrR1",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Custer Star",
+        "city": "Frisco",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/kwz5mPc",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Coit Main Plaz",
+        "city": "Frisco",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Helotes": [
+      {
+        "url": "https://offers.greatclips.com/JQl16Ts",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Great Clips Helotes Town Center",
+        "city": "Helotes",
+        "state": "TX",
+        "price": 12.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ],
+    "Hondo": [
+      {
+        "url": "https://offers.greatclips.com/WB3fLoz",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Great Clips Hondo Village",
+        "city": "Hondo",
+        "state": "TX",
+        "price": 12.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ],
+    "Hudson Oaks": [
+      {
+        "url": "https://offers.greatclips.com/iSBS5s4",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Shops at Hudson Oaks",
+        "city": "Hudson Oaks",
+        "state": "TX",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      }
+    ],
+    "Katy": [
+      {
+        "url": "https://offers.greatclips.com/6Ffv7Ps",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Cross Creek Ranch",
+        "city": "Katy",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-22",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/sBuxydP",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Jordan Ranch",
+        "city": "Katy",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/DNFjs79",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Elyson",
+        "city": "Katy",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      }
+    ],
+    "Lewisville": [
+      {
+        "url": "https://offers.greatclips.com/hKGWrLP",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Lakepointe Towne Crossing",
+        "city": "Lewisville",
+        "state": "TX",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/MQol7Im",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Market at Valley Parkway",
+        "city": "Lewisville",
+        "state": "TX",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Little Elm": [
+      {
+        "url": "https://offers.greatclips.com/l3gtE5f",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Little Elm Towne Crossing",
+        "city": "Little Elm",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      }
+    ],
+    "McKinney": [
+      {
+        "url": "https://offers.greatclips.com/cbbogLl",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Shops at Eagle Poin",
+        "city": "McKinney",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      }
+    ],
+    "Pantego": [
+      {
+        "url": "https://offers.greatclips.com/dOZWYty",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Park Row Place",
+        "city": "Pantego",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Paris": [
+      {
+        "url": "https://offers.greatclips.com/Q9vjPKT",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Paris",
+        "city": "Paris",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Plano": [
+      {
+        "url": "https://offers.greatclips.com/2FdU9xc",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Coit Marketplace",
+        "city": "Plano",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      }
+    ],
+    "Prosper": [
+      {
+        "url": "https://offers.greatclips.com/7FKhTem",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Gates of Prosper",
+        "city": "Prosper",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/Zk027V6",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Windsong Ranch",
+        "city": "Prosper",
+        "state": "TX",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": "2026-03-24",
+        "match": "not_match"
+      }
+    ],
+    "San Antonio": [
+      {
+        "url": "https://offers.greatclips.com/dZyFjyF",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Great Clips SA Crossing",
+        "city": "San Antonio",
+        "state": "TX",
+        "price": 12.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ],
+    "San Marcos": [
+      {
+        "url": "https://offers.greatclips.com/aCAtuVU",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Springtown Shopping Center",
+        "city": "San Marcos",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/dkIygSf",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Springtown Shopping Center",
+        "city": "San Marcos",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Sherman": [
+      {
+        "url": "https://offers.greatclips.com/X2DBld7",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Sherman Town Center",
+        "city": "Sherman",
+        "state": "TX",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/aRyz4NC",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Sherman Town Center",
+        "city": "Sherman",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-16",
+        "match": "not_match"
+      }
+    ],
+    "Sugar Land": [
+      {
+        "url": "https://offers.greatclips.com/r2YLMBC",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Telfair HEB Sugarland",
+        "city": "Sugar Land",
+        "state": "TX",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ],
+    "Uvalde": [
+      {
+        "url": "https://offers.greatclips.com/JSF9gOw",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Great Clips Uvalde Shopping Center",
+        "city": "Uvalde",
+        "state": "TX",
+        "price": 12.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ],
+    "Waco": [
+      {
+        "url": "https://offers.greatclips.com/WwsRrEB",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Woodway Plaz",
+        "city": "Waco",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/R12OToz",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Valley Mills HEB",
+        "city": "Waco",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      }
+    ],
+    "Weatherford": [
+      {
+        "url": "https://offers.greatclips.com/Vua7nWz",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Weatherford Commons",
+        "city": "Weatherford",
+        "state": "TX",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/boTYhQ6",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Weatherford Commons",
+        "city": "Weatherford",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-16",
+        "match": "not_match"
+      }
+    ]
+  },
+  "UT": {
+    "Cedar City": [
+      {
+        "url": "https://offers.greatclips.com/KMcEZ8z",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Cedar City Town Center",
+        "city": "Cedar City",
+        "state": "UT",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ],
+    "Cottonwood Heights": [
+      {
+        "url": "https://offers.greatclips.com/T3XCDbg",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Hillside Plaz",
+        "city": "Cottonwood Heights",
+        "state": "UT",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ],
+    "Hurricane": [
+      {
+        "url": "https://offers.greatclips.com/kXL6GSb",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Grand Circle Plaz",
+        "city": "Hurricane",
+        "state": "UT",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ],
+    "Midvale": [
+      {
+        "url": "https://offers.greatclips.com/ZbfqZB5",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Park Centre",
+        "city": "Midvale",
+        "state": "UT",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ],
+    "West Valley City": [
+      {
+        "url": "https://offers.greatclips.com/CQvGFAo",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Hunter Park Plaz",
+        "city": "West Valley City",
+        "state": "UT",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ]
+  },
+  "Unknown": {
+    "Great Clips Chicago": [
+      {
+        "url": "https://offers.greatclips.com/0PSytU7",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Chicago",
+        "city": "Great Clips Chicago",
+        "state": "Unknown",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-20",
+        "match": "not_match"
+      }
+    ],
+    "Great Clips Five Points Shopping Center": [
+      {
+        "url": "https://offers.greatclips.com/3VxVmrV",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Five Points Shopping Center",
+        "city": "Great Clips Five Points Shopping Center",
+        "state": "Unknown",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-17",
+        "match": "not_match"
+      }
+    ],
+    "Great Clips Fry": [
+      {
+        "url": "https://offers.greatclips.com/LHOJ3zI",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Fry",
+        "city": "Great Clips Fry",
+        "state": "Unknown",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-20",
+        "match": "not_match"
+      }
+    ],
+    "Great Clips Lawrence": [
+      {
+        "url": "https://offers.greatclips.com/kLgZnCA",
+        "coupon_url": "https://coupons-greatclips.com/14-99",
+        "location": "Great Clips Lawrence",
+        "city": "Great Clips Lawrence",
+        "state": "Unknown",
+        "price": 14.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
+        "match": "not_match"
+      }
+    ],
+    "Great Clips Mauldin Bi": [
+      {
+        "url": "https://offers.greatclips.com/vWAm8Nk",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Mauldin Bi",
+        "city": "Great Clips Mauldin Bi",
+        "state": "Unknown",
+        "price": 6.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-15",
+        "match": "not_match"
+      }
+    ],
+    "Great Clips Payson": [
+      {
+        "url": "https://offers.greatclips.com/ILXZgOq",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Payson",
+        "city": "Great Clips Payson",
+        "state": "Unknown",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ],
+    "Great Clips Westdale": [
+      {
+        "url": "https://offers.greatclips.com/RAfbA6x",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Westdale",
+        "city": "Great Clips Westdale",
+        "state": "Unknown",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-29",
+        "match": "not_match"
+      }
+    ],
+    "Unknown": [
+      {
+        "url": "https://offers.greatclips.com/gmnbrw8",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": null,
+        "city": "Unknown",
+        "state": "Unknown",
+        "price": null,
+        "price_off": null,
+        "offer_type": null,
+        "expired": false,
+        "expires": null,
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/QsHEVAT",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Area Location: Shreveport",
+        "city": "Unknown",
+        "state": "Unknown",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": null,
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/etNDXnk",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": null,
+        "city": "Unknown",
+        "state": "Unknown",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-20",
+        "match": "not_match"
+      }
+    ]
+  },
+  "VA": {
+    "Falls Church": [
+      {
+        "url": "https://offers.greatclips.com/Q2o8QUt",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Great Clips Shops at West Falls Church",
+        "city": "Falls Church",
+        "state": "VA",
+        "price": 12.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-27",
+        "match": "not_match"
+      }
+    ]
+  },
+  "WV": {
+    "White Hall": [
+      {
+        "url": "https://offers.greatclips.com/NyKjvcR",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Middletown Commons",
+        "city": "White Hall",
+        "state": "WV",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-04-17",
+        "match": "not_match"
+      }
+    ]
+  }
+}
