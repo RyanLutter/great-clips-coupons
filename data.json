@@ -49,9 +49,9 @@
     ],
     "Chandler": [
       {
-        "url": "https://offers.greatclips.com/O1CvpjP",
+        "url": "https://offers.greatclips.com/LHOJ3zI",
         "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Great Clips The Park at 1245 W Chandler Blvd",
+        "location": "Great Clips Fry's Anderson Springs at 1960 W Ray Rd",
         "city": "Chandler",
         "state": "AZ",
         "price": 8.99,
@@ -75,9 +75,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/LHOJ3zI",
+        "url": "https://offers.greatclips.com/O1CvpjP",
         "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Great Clips Fry's Anderson Springs at 1960 W Ray Rd",
+        "location": "Great Clips The Park at 1245 W Chandler Blvd",
         "city": "Chandler",
         "state": "AZ",
         "price": 8.99,
@@ -139,7 +139,7 @@
       {
         "url": "https://offers.greatclips.com/kLgZnCA",
         "coupon_url": "https://coupons-greatclips.com/14-99",
-        "location": "Great Clips Lawrence &amp; Monroe at 3555 Monroe St",
+        "location": "Great Clips Lawrence & Monroe at 3555 Monroe St",
         "city": "Santa Clara",
         "state": "CA",
         "price": 14.99,
@@ -229,19 +229,6 @@
     ],
     "Oviedo": [
       {
-        "url": "https://offers.greatclips.com/u3Kmbp3",
-        "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "Great Clips Riverside Landing at 1789 E Broadway St",
-        "city": "Oviedo",
-        "state": "FL",
-        "price": 9.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": false,
-        "expires": "2026-03-25",
-        "match": "not_match"
-      },
-      {
         "url": "https://offers.greatclips.com/RYBXvzB",
         "coupon_url": "https://coupons-greatclips.com/9-99",
         "location": "Great Clips Oviedo On The Park at 327 E Mitchell Hammock Rd",
@@ -252,6 +239,19 @@
         "offer_type": "Fixed",
         "expired": false,
         "expires": "2026-03-31",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/u3Kmbp3",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Great Clips Riverside Landing at 1789 E Broadway St",
+        "city": "Oviedo",
+        "state": "FL",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-25",
         "match": "not_match"
       }
     ],
@@ -736,7 +736,7 @@
         "price": 6.99,
         "price_off": null,
         "offer_type": "Fixed",
-        "expired": false,
+        "expired": true,
         "expires": "2026-03-15",
         "match": "not_match"
       }
@@ -751,7 +751,7 @@
         "price": 6.99,
         "price_off": null,
         "offer_type": "Fixed",
-        "expired": false,
+        "expired": true,
         "expires": "2026-03-15",
         "match": "not_match"
       }
@@ -891,9 +891,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/5K9EOJS",
+        "url": "https://offers.greatclips.com/SJikt7J",
         "coupon_url": "https://coupons-greatclips.com/6-99",
-        "location": "Great Clips Park Forest Northeast at 3767 Forest Ln",
+        "location": "Great Clips Market at Preston Forest at 6063 Forest Ln",
         "city": "Dallas",
         "state": "TX",
         "price": 6.99,
@@ -904,22 +904,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/PH4yABu",
+        "url": "https://offers.greatclips.com/5K9EOJS",
         "coupon_url": "https://coupons-greatclips.com/6-99",
         "location": "Great Clips Park Forest Northeast at 3767 Forest Ln",
-        "city": "Dallas",
-        "state": "TX",
-        "price": 5.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": false,
-        "expires": "2026-03-16",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/SJikt7J",
-        "coupon_url": "https://coupons-greatclips.com/6-99",
-        "location": "Great Clips Market at Preston Forest at 6063 Forest Ln",
         "city": "Dallas",
         "state": "TX",
         "price": 6.99,
@@ -938,7 +925,20 @@
         "price": 5.99,
         "price_off": null,
         "offer_type": "Fixed",
-        "expired": false,
+        "expired": true,
+        "expires": "2026-03-16",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/PH4yABu",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Park Forest Northeast at 3767 Forest Ln",
+        "city": "Dallas",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
         "expires": "2026-03-16",
         "match": "not_match"
       }
@@ -966,16 +966,16 @@
         "price": 5.99,
         "price_off": null,
         "offer_type": "Fixed",
-        "expired": false,
+        "expired": true,
         "expires": "2026-03-16",
         "match": "not_match"
       }
     ],
     "Fort Worth": [
       {
-        "url": "https://offers.greatclips.com/ul83fWG",
+        "url": "https://offers.greatclips.com/x3iNB9G",
         "coupon_url": "https://coupons-greatclips.com/6-99",
-        "location": "Great Clips Left Bank Market at 628 Harrold St",
+        "location": "Great Clips Eastchase Market at 1550 Eastchase Pkwy",
         "city": "Fort Worth",
         "state": "TX",
         "price": 5.99,
@@ -986,9 +986,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/x3iNB9G",
+        "url": "https://offers.greatclips.com/ul83fWG",
         "coupon_url": "https://coupons-greatclips.com/6-99",
-        "location": "Great Clips Eastchase Market at 1550 Eastchase Pkwy",
+        "location": "Great Clips Left Bank Market at 628 Harrold St",
         "city": "Fort Worth",
         "state": "TX",
         "price": 5.99,
@@ -1115,9 +1115,9 @@
     ],
     "Lewisville": [
       {
-        "url": "https://offers.greatclips.com/MQol7Im",
+        "url": "https://offers.greatclips.com/hKGWrLP",
         "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Great Clips Market at Valley Parkway at 1079 W FM 3040",
+        "location": "Great Clips Lakepointe Towne Crossing at 729 Hebron Pkwy",
         "city": "Lewisville",
         "state": "TX",
         "price": 8.99,
@@ -1128,9 +1128,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/hKGWrLP",
+        "url": "https://offers.greatclips.com/MQol7Im",
         "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Great Clips Lakepointe Towne Crossing at 729 Hebron Pkwy",
+        "location": "Great Clips Market at Valley Parkway at 1079 W FM 3040",
         "city": "Lewisville",
         "state": "TX",
         "price": 8.99,
@@ -1218,9 +1218,9 @@
     ],
     "Prosper": [
       {
-        "url": "https://offers.greatclips.com/7FKhTem",
+        "url": "https://offers.greatclips.com/Zk027V6",
         "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips Gates of Prosper at 750 Richland Blvd",
+        "location": "Great Clips Windsong Ranch at 4740 W University Dr",
         "city": "Prosper",
         "state": "TX",
         "price": null,
@@ -1231,9 +1231,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/Zk027V6",
+        "url": "https://offers.greatclips.com/7FKhTem",
         "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips Windsong Ranch at 4740 W University Dr",
+        "location": "Great Clips Gates of Prosper at 750 Richland Blvd",
         "city": "Prosper",
         "state": "TX",
         "price": null,
@@ -1261,7 +1261,7 @@
     ],
     "San Marcos": [
       {
-        "url": "https://offers.greatclips.com/dkIygSf",
+        "url": "https://offers.greatclips.com/aCAtuVU",
         "coupon_url": "https://coupons-greatclips.com/10-99",
         "location": "Great Clips Springtown Shopping Center at 1180 Thorpe Ln",
         "city": "San Marcos",
@@ -1274,7 +1274,7 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/aCAtuVU",
+        "url": "https://offers.greatclips.com/dkIygSf",
         "coupon_url": "https://coupons-greatclips.com/10-99",
         "location": "Great Clips Springtown Shopping Center at 1180 Thorpe Ln",
         "city": "San Marcos",
@@ -1310,7 +1310,7 @@
         "price": 5.99,
         "price_off": null,
         "offer_type": "Fixed",
-        "expired": false,
+        "expired": true,
         "expires": "2026-03-16",
         "match": "not_match"
       }
@@ -1375,6 +1375,19 @@
     ],
     "Weatherford": [
       {
+        "url": "https://offers.greatclips.com/boTYhQ6",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Weatherford Commons at 1968 S Main St",
+        "city": "Weatherford",
+        "state": "TX",
+        "price": 5.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-03-16",
+        "match": "not_match"
+      },
+      {
         "url": "https://offers.greatclips.com/Vua7nWz",
         "coupon_url": "https://coupons-greatclips.com/6-99",
         "location": "Great Clips Weatherford Commons at 1968 S Main St",
@@ -1385,19 +1398,6 @@
         "offer_type": "Fixed",
         "expired": false,
         "expires": "2026-04-07",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/boTYhQ6",
-        "coupon_url": "https://coupons-greatclips.com/6-99",
-        "location": "Great Clips Weatherford Commons at 1968 S Main St",
-        "city": "Weatherford",
-        "state": "TX",
-        "price": 5.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": false,
-        "expires": "2026-03-16",
         "match": "not_match"
       }
     ]
@@ -1490,6 +1490,53 @@
         "offer_type": "Fixed",
         "expired": true,
         "expires": "2026-03-13",
+        "match": "not_match"
+      }
+    ]
+  },
+  "Unknown": {
+    "Most Cities": [
+      {
+        "url": "https://offers.greatclips.com/uAWgQA5",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Most Great Clips",
+        "city": "Most Cities",
+        "state": "Unknown",
+        "price": null,
+        "price_off": 5.0,
+        "offer_type": "Discount",
+        "expired": false,
+        "expires": null,
+        "match": "not_match"
+      }
+    ],
+    "Shreveport": [
+      {
+        "url": "https://offers.greatclips.com/QsHEVAT",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Shreveport Great Clips",
+        "city": "Shreveport",
+        "state": "Unknown",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": null,
+        "match": "not_match"
+      }
+    ],
+    "Yuma": [
+      {
+        "url": "https://offers.greatclips.com/etNDXnk",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Yuma Great Clips",
+        "city": "Yuma",
+        "state": "Unknown",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-03-20",
         "match": "not_match"
       }
     ]
