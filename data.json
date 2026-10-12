@@ -32,9 +32,9 @@
     ],
     "Pell City": [
       {
-        "url": "https://offers.greatclips.com/GAdTiio",
+        "url": "https://offers.greatclips.com/qXuNqfd",
         "coupon_url": "https://coupons-greatclips.com/7-99",
-        "location": "Great Clips South Park Center at 2042 Martin St S",
+        "location": "Great Clips Pell City Station at 73 Vaughan Ln",
         "city": "Pell City",
         "state": "AL",
         "price": 7.99,
@@ -45,9 +45,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/qXuNqfd",
+        "url": "https://offers.greatclips.com/GAdTiio",
         "coupon_url": "https://coupons-greatclips.com/7-99",
-        "location": "Great Clips Pell City Station at 73 Vaughan Ln",
+        "location": "Great Clips South Park Center at 2042 Martin St S",
         "city": "Pell City",
         "state": "AL",
         "price": 7.99,
@@ -225,19 +225,6 @@
     ],
     "Lakeland": [
       {
-        "url": "https://offers.greatclips.com/cGOwlgb",
-        "coupon_url": "https://coupons-greatclips.com/13-99",
-        "location": "Great Clips Target Center at 3540 Harden Blvd",
-        "city": "Lakeland",
-        "state": "FL",
-        "price": 13.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": false,
-        "expires": "2026-10-23",
-        "match": "not_match"
-      },
-      {
         "url": "https://offers.greatclips.com/iOy37iv",
         "coupon_url": "https://coupons-greatclips.com/13-99",
         "location": "Great Clips High Glen at 2018 E County Rd 540A",
@@ -249,22 +236,22 @@
         "expired": false,
         "expires": "2026-10-23",
         "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/cGOwlgb",
+        "coupon_url": "https://coupons-greatclips.com/13-99",
+        "location": "Great Clips Target Center at 3540 Harden Blvd",
+        "city": "Lakeland",
+        "state": "FL",
+        "price": 13.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-10-23",
+        "match": "not_match"
       }
     ],
     "Ocala": [
-      {
-        "url": "https://offers.greatclips.com/QnuB9hY",
-        "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Great Clips Grand Oaks Town Center at 2575 SW 42nd St",
-        "city": "Ocala",
-        "state": "FL",
-        "price": 8.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-09",
-        "match": "not_match"
-      },
       {
         "url": "https://offers.greatclips.com/ki2QSE0",
         "coupon_url": "https://coupons-greatclips.com/8-99",
@@ -282,6 +269,19 @@
         "url": "https://offers.greatclips.com/g9cBmt2",
         "coupon_url": "https://coupons-greatclips.com/8-99",
         "location": "Great Clips Market at Cherrywood at 9570 SW 62nd Ave",
+        "city": "Ocala",
+        "state": "FL",
+        "price": 8.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-09",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/QnuB9hY",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Great Clips Grand Oaks Town Center at 2575 SW 42nd St",
         "city": "Ocala",
         "state": "FL",
         "price": 8.99,
@@ -309,19 +309,6 @@
     ],
     "The Villages": [
       {
-        "url": "https://offers.greatclips.com/PvyjlQ5",
-        "coupon_url": "https://coupons-greatclips.com/7-99",
-        "location": "Great Clips La Plaza Grande at 1126 Bichara Blvd",
-        "city": "The Villages",
-        "state": "FL",
-        "price": 7.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": false,
-        "expires": "2026-10-16",
-        "match": "not_match"
-      },
-      {
         "url": "https://offers.greatclips.com/8NUmR2H",
         "coupon_url": "https://coupons-greatclips.com/8-99",
         "location": "Great Clips La Plaza Grande at 1126 Bichara Blvd",
@@ -332,6 +319,19 @@
         "offer_type": "Fixed",
         "expired": true,
         "expires": "2026-10-09",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/PvyjlQ5",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips La Plaza Grande at 1126 Bichara Blvd",
+        "city": "The Villages",
+        "state": "FL",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-10-16",
         "match": "not_match"
       }
     ],
@@ -369,9 +369,9 @@
     ],
     "Macon": [
       {
-        "url": "https://offers.greatclips.com/3RLKajn",
+        "url": "https://offers.greatclips.com/mgJs66P",
         "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips Pinnacle Point at 1687 Bass Rd",
+        "location": "Great Clips Bridge Pointe at 4335 Hartley Bridge Rd",
         "city": "Macon",
         "state": "GA",
         "price": null,
@@ -382,9 +382,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/eZsgraj",
+        "url": "https://offers.greatclips.com/3RLKajn",
         "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips River Gate at 159 Tom Hill Sr Blvd",
+        "location": "Great Clips Pinnacle Point at 1687 Bass Rd",
         "city": "Macon",
         "state": "GA",
         "price": null,
@@ -408,9 +408,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/mgJs66P",
+        "url": "https://offers.greatclips.com/eZsgraj",
         "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips Bridge Pointe at 4335 Hartley Bridge Rd",
+        "location": "Great Clips River Gate at 159 Tom Hill Sr Blvd",
         "city": "Macon",
         "state": "GA",
         "price": null,
@@ -487,9 +487,9 @@
     ],
     "Downers Grove": [
       {
-        "url": "https://offers.greatclips.com/l8iYWRR",
+        "url": "https://offers.greatclips.com/fpA1t93",
         "coupon_url": "https://coupons-greatclips.com/13-99",
-        "location": "Great Clips Victoria Centre at 6319 Woodward Ave",
+        "location": "Great Clips Butterfield Plaza at 1412 Butterfield Road",
         "city": "Downers Grove",
         "state": "IL",
         "price": 13.99,
@@ -500,9 +500,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/fpA1t93",
+        "url": "https://offers.greatclips.com/l8iYWRR",
         "coupon_url": "https://coupons-greatclips.com/13-99",
-        "location": "Great Clips Butterfield Plaza at 1412 Butterfield Road",
+        "location": "Great Clips Victoria Centre at 6319 Woodward Ave",
         "city": "Downers Grove",
         "state": "IL",
         "price": 13.99,
@@ -669,19 +669,6 @@
   "KY": {
     "Louisville": [
       {
-        "url": "https://offers.greatclips.com/TeYv1Ql",
-        "coupon_url": "https://coupons-greatclips.com/6-99",
-        "location": "Great Clips Glenview Pointe at 2400 Lime Kiln Lane",
-        "city": "Louisville",
-        "state": "KY",
-        "price": 4.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-10",
-        "match": "not_match"
-      },
-      {
         "url": "https://offers.greatclips.com/719p3OX",
         "coupon_url": "https://coupons-greatclips.com/6-99",
         "location": "Great Clips Middletown Station at 12949 Shelbyville Rd",
@@ -693,15 +680,28 @@
         "expired": true,
         "expires": "2026-10-09",
         "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/TeYv1Ql",
+        "coupon_url": "https://coupons-greatclips.com/6-99",
+        "location": "Great Clips Glenview Pointe at 2400 Lime Kiln Lane",
+        "city": "Louisville",
+        "state": "KY",
+        "price": 4.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-10",
+        "match": "not_match"
       }
     ]
   },
   "MO": {
     "Saint Joseph": [
       {
-        "url": "https://offers.greatclips.com/OLe1VGi",
+        "url": "https://offers.greatclips.com/ygR3zMD",
         "coupon_url": "https://coupons-greatclips.com/12-99",
-        "location": "Great Clips Shoppes at North Village at 5107 N Belt Hwy",
+        "location": "Great Clips East Hills Mall Pad at 3700 Frederick Ave",
         "city": "Saint Joseph",
         "state": "MO",
         "price": 12.99,
@@ -712,9 +712,9 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/ygR3zMD",
+        "url": "https://offers.greatclips.com/OLe1VGi",
         "coupon_url": "https://coupons-greatclips.com/12-99",
-        "location": "Great Clips East Hills Mall Pad at 3700 Frederick Ave",
+        "location": "Great Clips Shoppes at North Village at 5107 N Belt Hwy",
         "city": "Saint Joseph",
         "state": "MO",
         "price": 12.99,
@@ -1026,32 +1026,6 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/4zVkmIA",
-        "coupon_url": "https://coupons-greatclips.com/7-99",
-        "location": "Great Clips Hillside at 6200 Hillside Rd",
-        "city": "Amarillo",
-        "state": "TX",
-        "price": 7.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-07",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/9AfH3o2",
-        "coupon_url": "https://coupons-greatclips.com/7-99",
-        "location": "Great Clips Soncy and 45th at 4280 S Soncy Rd",
-        "city": "Amarillo",
-        "state": "TX",
-        "price": 7.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-07",
-        "match": "not_match"
-      },
-      {
         "url": "https://offers.greatclips.com/PDLsHve",
         "coupon_url": "https://coupons-greatclips.com/7-99",
         "location": "Great Clips Summit Shopping Center at 3300 S Coulter St",
@@ -1068,6 +1042,32 @@
         "url": "https://offers.greatclips.com/uBAnDCA",
         "coupon_url": "https://coupons-greatclips.com/7-99",
         "location": "Great Clips Tradewind at 2200 SE 34th Ave",
+        "city": "Amarillo",
+        "state": "TX",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/4zVkmIA",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Hillside at 6200 Hillside Rd",
+        "city": "Amarillo",
+        "state": "TX",
+        "price": 7.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/9AfH3o2",
+        "coupon_url": "https://coupons-greatclips.com/7-99",
+        "location": "Great Clips Soncy and 45th at 4280 S Soncy Rd",
         "city": "Amarillo",
         "state": "TX",
         "price": 7.99,
@@ -1110,6 +1110,19 @@
     ],
     "Bryan": [
       {
+        "url": "https://offers.greatclips.com/nvhn3yI",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips The Tejas Center at 725 E Villa Maria Rd",
+        "city": "Bryan",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-11-07",
+        "match": "not_match"
+      },
+      {
         "url": "https://offers.greatclips.com/OlTBXCN",
         "coupon_url": "https://coupons-greatclips.com/10-99",
         "location": "Great Clips Brazos Marketplace at 631 N Harvey Mitchell Pkwy",
@@ -1126,19 +1139,6 @@
         "url": "https://offers.greatclips.com/oKsZgff",
         "coupon_url": "https://coupons-greatclips.com/10-99",
         "location": "Great Clips Colony Park at 2305 Boonville Rd",
-        "city": "Bryan",
-        "state": "TX",
-        "price": 10.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": false,
-        "expires": "2026-11-07",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/nvhn3yI",
-        "coupon_url": "https://coupons-greatclips.com/10-99",
-        "location": "Great Clips The Tejas Center at 725 E Villa Maria Rd",
         "city": "Bryan",
         "state": "TX",
         "price": 10.99,
@@ -1179,32 +1179,6 @@
     ],
     "Dallas": [
       {
-        "url": "https://offers.greatclips.com/SEhVGoz",
-        "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips Park Forest Northeast at 3767 Forest Ln",
-        "city": "Dallas",
-        "state": "TX",
-        "price": null,
-        "price_off": 6.0,
-        "offer_type": "Discount",
-        "expired": true,
-        "expires": "2026-10-05",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/stj7Df4",
-        "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips Market at Preston Forest at 6063 Forest Ln",
-        "city": "Dallas",
-        "state": "TX",
-        "price": null,
-        "price_off": 6.0,
-        "offer_type": "Discount",
-        "expired": true,
-        "expires": "2026-10-05",
-        "match": "not_match"
-      },
-      {
         "url": "https://offers.greatclips.com/tAFMCSK",
         "coupon_url": "https://coupons-greatclips.com/8-99",
         "location": "Great Clips High Point Crossing at 6411 E Northwest Hwy",
@@ -1229,6 +1203,32 @@
         "expired": false,
         "expires": "2026-10-18",
         "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/SEhVGoz",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Park Forest Northeast at 3767 Forest Ln",
+        "city": "Dallas",
+        "state": "TX",
+        "price": null,
+        "price_off": 6.0,
+        "offer_type": "Discount",
+        "expired": true,
+        "expires": "2026-10-05",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/stj7Df4",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Market at Preston Forest at 6063 Forest Ln",
+        "city": "Dallas",
+        "state": "TX",
+        "price": null,
+        "price_off": 6.0,
+        "offer_type": "Discount",
+        "expired": true,
+        "expires": "2026-10-05",
+        "match": "not_match"
       }
     ],
     "Eagle Pass": [
@@ -1247,19 +1247,6 @@
       }
     ],
     "Fort Worth": [
-      {
-        "url": "https://offers.greatclips.com/2MdE2Nd",
-        "coupon_url": "https://coupons-greatclips.com/5-off",
-        "location": "Great Clips Eastchase Market at 1550 Eastchase Pkwy",
-        "city": "Fort Worth",
-        "state": "TX",
-        "price": null,
-        "price_off": 6.0,
-        "offer_type": "Discount",
-        "expired": true,
-        "expires": "2026-10-05",
-        "match": "not_match"
-      },
       {
         "url": "https://offers.greatclips.com/RBCxSMV",
         "coupon_url": "https://coupons-greatclips.com/6-99",
@@ -1284,6 +1271,19 @@
         "offer_type": "Fixed",
         "expired": false,
         "expires": "2026-11-01",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/2MdE2Nd",
+        "coupon_url": "https://coupons-greatclips.com/5-off",
+        "location": "Great Clips Eastchase Market at 1550 Eastchase Pkwy",
+        "city": "Fort Worth",
+        "state": "TX",
+        "price": null,
+        "price_off": 6.0,
+        "offer_type": "Discount",
+        "expired": true,
+        "expires": "2026-10-05",
         "match": "not_match"
       }
     ],
@@ -1440,6 +1440,19 @@
         "url": "https://offers.greatclips.com/rsk276J",
         "coupon_url": "https://coupons-greatclips.com/10-99",
         "location": "Great Clips Valley Mills HEB at 1821 S Valley Mills Dr",
+        "city": "Waco",
+        "state": "TX",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-11-07",
+        "match": "not_match"
+      },
+      {
+        "url": "https://offers.greatclips.com/J4cqN0T",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Great Clips Woodway Plaza at 824 Hewitt Dr",
         "city": "Waco",
         "state": "TX",
         "price": 10.99,
@@ -1664,7 +1677,7 @@
       {
         "url": "https://offers.greatclips.com/Vu49Mxx",
         "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "Austin Great Clips",
+        "location": "Participating Austin Area Great Clips Salons",
         "city": "Austin",
         "state": "Unknown",
         "price": 9.99,
@@ -1679,7 +1692,7 @@
       {
         "url": "https://offers.greatclips.com/0fJiWeU",
         "coupon_url": "https://coupons-greatclips.com/12-99",
-        "location": "Central OR Great Clips",
+        "location": "Participating Central OR Area Great Clips Salons",
         "city": "Central OR",
         "state": "Unknown",
         "price": 12.99,
@@ -1690,11 +1703,26 @@
         "match": "not_match"
       }
     ],
+    "El Paso & Las Cruces": [
+      {
+        "url": "https://offers.greatclips.com/4IWPSig",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Participating El Paso & Las Cruces Area Great Clips Salons",
+        "city": "El Paso & Las Cruces",
+        "state": "Unknown",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-02",
+        "match": "not_match"
+      }
+    ],
     "Greater Triangle": [
       {
         "url": "https://offers.greatclips.com/j6HHWsk",
         "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "Greater Triangle Great Clips",
+        "location": "Participating Greater Triangle Area Great Clips Salons",
         "city": "Greater Triangle",
         "state": "Unknown",
         "price": 9.99,
@@ -1705,11 +1733,26 @@
         "match": "not_match"
       }
     ],
+    "Greater Waco, College Station, Killeen & Harker Heights": [
+      {
+        "url": "https://offers.greatclips.com/cbOPiLN",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Participating Greater Waco, College Station, Killeen & Harker Heights Area Great Clips Salons",
+        "city": "Greater Waco, College Station, Killeen & Harker Heights",
+        "state": "Unknown",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-02",
+        "match": "not_match"
+      }
+    ],
     "Honolulu": [
       {
         "url": "https://offers.greatclips.com/ZARC2r0",
         "coupon_url": "https://coupons-greatclips.com/12-99",
-        "location": "Honolulu Great Clips",
+        "location": "Participating Honolulu Area Great Clips Salons",
         "city": "Honolulu",
         "state": "Unknown",
         "price": 12.99,
@@ -1724,7 +1767,7 @@
       {
         "url": "https://offers.greatclips.com/rDKX0S8",
         "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Houston Great Clips",
+        "location": "Participating Houston Area Great Clips Salons",
         "city": "Houston",
         "state": "Unknown",
         "price": 8.99,
@@ -1739,7 +1782,7 @@
       {
         "url": "https://offers.greatclips.com/AIqUTNO",
         "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Laredo Great Clips",
+        "location": "Participating Laredo Area Great Clips Salons",
         "city": "Laredo",
         "state": "Unknown",
         "price": 8.99,
@@ -1754,7 +1797,7 @@
       {
         "url": "https://offers.greatclips.com/sp39D67",
         "coupon_url": "https://coupons-greatclips.com/10-99",
-        "location": "Las Vegas Great Clips",
+        "location": "Participating Las Vegas Area Great Clips Salons",
         "city": "Las Vegas",
         "state": "Unknown",
         "price": 10.99,
@@ -1780,12 +1823,12 @@
         "match": "not_match"
       }
     ],
-    "OKC": [
+    "OKC area and N. Central & W OK": [
       {
         "url": "https://offers.greatclips.com/NtBB5KJ",
         "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "OKC Great Clips",
-        "city": "OKC",
+        "location": "Participating OKC area and N. Central & W OK Area Great Clips Salons",
+        "city": "OKC area and N. Central & W OK",
         "state": "Unknown",
         "price": 9.99,
         "price_off": null,
@@ -1795,11 +1838,26 @@
         "match": "not_match"
       }
     ],
+    "Paducah-Cape Girardeau": [
+      {
+        "url": "https://offers.greatclips.com/e2skyqs",
+        "coupon_url": "https://coupons-greatclips.com/11-99",
+        "location": "Participating Paducah-Cape Girardeau Area Great Clips Salons",
+        "city": "Paducah-Cape Girardeau",
+        "state": "Unknown",
+        "price": 11.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-02",
+        "match": "not_match"
+      }
+    ],
     "Palm Springs": [
       {
         "url": "https://offers.greatclips.com/tp5ZVjB",
         "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "Palm Springs Great Clips",
+        "location": "Participating Palm Springs Area Great Clips Salons",
         "city": "Palm Springs",
         "state": "Unknown",
         "price": 9.99,
@@ -1810,14 +1868,59 @@
         "match": "not_match"
       }
     ],
+    "Phoenix & Northern/Western AZ": [
+      {
+        "url": "https://offers.greatclips.com/ooRyocE",
+        "coupon_url": "https://coupons-greatclips.com/10-99",
+        "location": "Participating Phoenix & Northern/Western AZ Area Great Clips Salons",
+        "city": "Phoenix & Northern/Western AZ",
+        "state": "Unknown",
+        "price": 10.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-09",
+        "match": "not_match"
+      }
+    ],
+    "Quad Cities & NE Iowa": [
+      {
+        "url": "https://offers.greatclips.com/W1Bxge6",
+        "coupon_url": "https://coupons-greatclips.com/9-99",
+        "location": "Participating Quad Cities & NE Iowa Area Great Clips Salons",
+        "city": "Quad Cities & NE Iowa",
+        "state": "Unknown",
+        "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": false,
+        "expires": "2026-10-23",
+        "match": "not_match"
+      }
+    ],
     "San Antonio": [
       {
         "url": "https://offers.greatclips.com/dEk0iJA",
         "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "San Antonio Great Clips",
+        "location": "Participating San Antonio Area Great Clips Salons",
         "city": "San Antonio",
         "state": "Unknown",
         "price": 9.99,
+        "price_off": null,
+        "offer_type": "Fixed",
+        "expired": true,
+        "expires": "2026-10-02",
+        "match": "not_match"
+      }
+    ],
+    "Shreveport & Marshall": [
+      {
+        "url": "https://offers.greatclips.com/2YgFcZj",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Participating Shreveport & Marshall Area Great Clips Salons",
+        "city": "Shreveport & Marshall",
+        "state": "Unknown",
+        "price": 8.99,
         "price_off": null,
         "offer_type": "Fixed",
         "expired": true,
@@ -1829,7 +1932,7 @@
       {
         "url": "https://offers.greatclips.com/ZwGkfIE",
         "coupon_url": "https://coupons-greatclips.com/10-99",
-        "location": "Tucson Great Clips",
+        "location": "Participating Tucson Area Great Clips Salons",
         "city": "Tucson",
         "state": "Unknown",
         "price": 10.99,
@@ -1844,7 +1947,7 @@
       {
         "url": "https://offers.greatclips.com/rNYDG9d",
         "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "Tulsa Great Clips",
+        "location": "Participating Tulsa Area Great Clips Salons",
         "city": "Tulsa",
         "state": "Unknown",
         "price": 8.99,
@@ -1855,33 +1958,22 @@
         "match": "not_match"
       }
     ],
-    "Unknown": [
+    "Tyler-Longview": [
       {
-        "url": "https://offers.greatclips.com/MYE0aAk",
-        "coupon_url": "https://coupons-greatclips.com/14-99",
-        "location": "participating Washington D.C. area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/16/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
+        "url": "https://offers.greatclips.com/ABnHGcB",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Participating Tyler-Longview Area Great Clips Salons",
+        "city": "Tyler-Longview",
         "state": "Unknown",
-        "price": 14.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": false,
-        "expires": "2026-10-16",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/e1j8GvR",
-        "coupon_url": "https://coupons-greatclips.com/12-99",
-        "location": "participating West & SW Michigan area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
-        "state": "Unknown",
-        "price": 12.99,
+        "price": 8.99,
         "price_off": null,
         "offer_type": "Fixed",
         "expired": true,
-        "expires": "2026-10-02",
+        "expires": "2026-10-09",
         "match": "not_match"
-      },
+      }
+    ],
+    "Unknown": [
       {
         "url": "https://offers.greatclips.com/Gta3eci",
         "coupon_url": "https://coupons-greatclips.com/11-99",
@@ -1896,19 +1988,6 @@
         "match": "not_match"
       },
       {
-        "url": "https://offers.greatclips.com/e2skyqs",
-        "coupon_url": "https://coupons-greatclips.com/11-99",
-        "location": "participating Paducah-Cape Girardeau area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
-        "state": "Unknown",
-        "price": 11.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-02",
-        "match": "not_match"
-      },
-      {
         "url": "https://offers.greatclips.com/eByaZUc",
         "coupon_url": "https://coupons-greatclips.com/11-99",
         "location": "Great Clips St. Peter's Square at 563 Mid Rivers Mall Drive in St. Peters, MO. Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Expires 11/06/2026. All Great Clips\u00ae salons are independently owned and operated.",
@@ -1920,92 +1999,46 @@
         "expired": false,
         "expires": "2026-11-06",
         "match": "not_match"
-      },
+      }
+    ],
+    "Washington D.C": [
       {
-        "url": "https://offers.greatclips.com/ABnHGcB",
-        "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "participating Tyler-Longview area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/09/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
+        "url": "https://offers.greatclips.com/MYE0aAk",
+        "coupon_url": "https://coupons-greatclips.com/14-99",
+        "location": "Participating Washington D.C Area Great Clips Salons",
+        "city": "Washington D.C",
         "state": "Unknown",
-        "price": 8.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-09",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/7dB654V",
-        "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "participating Wichita Falls & Lawton area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/09/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
-        "state": "Unknown",
-        "price": 8.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-09",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/2YgFcZj",
-        "coupon_url": "https://coupons-greatclips.com/8-99",
-        "location": "participating Shreveport & Marshall area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
-        "state": "Unknown",
-        "price": 8.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-02",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/W1Bxge6",
-        "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "participating Quad Cities & NE Iowa area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/23/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
-        "state": "Unknown",
-        "price": 9.99,
+        "price": 14.99,
         "price_off": null,
         "offer_type": "Fixed",
         "expired": false,
-        "expires": "2026-10-23",
+        "expires": "2026-10-16",
         "match": "not_match"
-      },
+      }
+    ],
+    "West & SW Michigan": [
       {
-        "url": "https://offers.greatclips.com/4IWPSig",
-        "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "participating El Paso & Las Cruces area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
+        "url": "https://offers.greatclips.com/e1j8GvR",
+        "coupon_url": "https://coupons-greatclips.com/12-99",
+        "location": "Participating West & SW Michigan Area Great Clips Salons",
+        "city": "West & SW Michigan",
         "state": "Unknown",
-        "price": 9.99,
+        "price": 12.99,
         "price_off": null,
         "offer_type": "Fixed",
         "expired": true,
         "expires": "2026-10-02",
         "match": "not_match"
-      },
+      }
+    ],
+    "Wichita Falls & Lawton": [
       {
-        "url": "https://offers.greatclips.com/cbOPiLN",
-        "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "participating Greater Waco, College Station, Killeen & Harker Heights area Great Clips salons.  Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/02/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
+        "url": "https://offers.greatclips.com/7dB654V",
+        "coupon_url": "https://coupons-greatclips.com/8-99",
+        "location": "Participating Wichita Falls & Lawton Area Great Clips Salons",
+        "city": "Wichita Falls & Lawton",
         "state": "Unknown",
-        "price": 9.99,
-        "price_off": null,
-        "offer_type": "Fixed",
-        "expired": true,
-        "expires": "2026-10-02",
-        "match": "not_match"
-      },
-      {
-        "url": "https://offers.greatclips.com/ooRyocE",
-        "coupon_url": "https://coupons-greatclips.com/10-99",
-        "location": "participating Phoenix & Northern/Western AZ area Great Clips salons . Not valid with any other offer. Limit one coupon per customer. No copies. Taxes may apply. Offer expires 10/09/2026. All Great Clips\u00ae salons are independently owned and operated.",
-        "city": "Unknown",
-        "state": "Unknown",
-        "price": 10.99,
+        "price": 8.99,
         "price_off": null,
         "offer_type": "Fixed",
         "expired": true,
@@ -2017,7 +2050,7 @@
       {
         "url": "https://offers.greatclips.com/zHVYjd8",
         "coupon_url": "https://coupons-greatclips.com/9-99",
-        "location": "Zanesville Great Clips",
+        "location": "Participating Zanesville Area Great Clips Salons",
         "city": "Zanesville",
         "state": "Unknown",
         "price": 9.99,

@@ -3,14 +3,14 @@ fetch("data.json")
   .then(data => {
     const container = document.getElementById("app");
 
-    Object.keys(data).forEach(state => {
+    Object.keys(data).sort().forEach(state => {
       const stateDiv = document.createElement("div");
       stateDiv.className = "state";
       stateDiv.innerHTML = `<h2>${state}</h2>`;
 
       const cities = data[state];
 
-      Object.keys(cities).forEach(city => {
+      Object.keys(cities).sort().forEach(city => {
         const cityDiv = document.createElement("div");
         cityDiv.className = "city";
         cityDiv.innerHTML = `<h3>${city}</h3>`;
