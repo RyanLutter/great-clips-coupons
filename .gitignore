@@ -1,0 +1,10 @@
+# Keep the scraper source and run history local; publish only the static site.
+scraper/
+history/
+__pycache__/
+*.py[cod]
+
+# Local Python environment and generated files.
+.venv/
+venv/
+*.log
