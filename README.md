@@ -14,7 +14,7 @@ The site is served from the repository root:
 
 The Python scraper lives in `scraper/` and is ignored by Git. It crawls Great Clips coupon pages, follows offer links, extracts offer location, price, and expiration details, then groups the results by state and city. The latest results are written to the root `data.json`. Timestamped snapshots are saved in `scraper/history/`; neither the scraper source nor its history is uploaded to GitHub.
 
-To run it from the repository root, install the scraper dependencies (`selenium`, `webdriver-manager`, and `beautifulsoup4`) and run:
+To run it from the repository root, install the scraper dependencies (`selenium` and `webdriver-manager`) and run:
 
 ```powershell
 python scraper/main.py "https://coupons-greatclips.com/" ""
